@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iharuya
-- 👀 I’m interested in metaverse that uses blockchain technologies partially.
+- 👀 I’m curious about developping metaverse partially driven by blockchain technologies.
 - 🌱 I’m currently learning ethereum and polkadot
 - 💞️ I’m looking to collaborate on projects that would enhance the experience in the metaverse and facilitate WEB3.0
 
